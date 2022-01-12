@@ -241,7 +241,7 @@ section {
 /*----- FILTERS -----*/
 
 #filters .title {color: var(--filter-title); margin-bottom: 0.5em;}
-.filter-desc {margin-bottom: 1em; color: var(--filter-text);}
+.filter-desc {margin-bottom: 0em; color: var(--filter-text);}
 
 .filter-wrap ul {
     list-style-type: none; 
