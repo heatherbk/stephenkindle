@@ -270,7 +270,7 @@ article {
     display: block;
     background-color: var(--content-background);
     width: 250px;
-    margin-bottom: 0px;
+    margin-bottom: 50px;
     text-align: center;
     overflow: hidden;
     box-shadow: 2px 2px 15px var(--drop-shadow), -2px -2px 15px var(--drop-shadow);
