@@ -173,7 +173,7 @@ header {
     left: 0;
     right: 0;
     box-sizing: border-box;
-    padding: 1em 1.25em;
+    padding: 0;
     display: flex;
     flex-direction: row;
     justify-content: space-between;
@@ -183,12 +183,12 @@ header {
 }
 
 .header-left {
-    max-width: 60%; 
+    max-width: 0%; 
     flex-shrink: 0;
     display: flex;
     flex-direction: row;
     justify-content: flex-start;
-    align-items: center;
+    align-items: ;
 }
 
 header .icon {
@@ -206,7 +206,7 @@ header .title {font-size: 1.5em;}
 header nav {flex-shrink: 0;}
 
 header nav a {
-    margin-left: 0.5em;
+    margin-left: 0em;
     text-transform: uppercase;
     letter-spacing: 0.1em;
     font-size: 0.9em;
